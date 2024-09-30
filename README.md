@@ -14,7 +14,6 @@ This project aims to predict house prices using a linear regression model. It is
 - [Project Setup](#project-setup)
 - [Using the Model](#using-the-model)
 - [Model Evaluation](#model-evaluation)
-- [Insights and Results](#insights-and-results)
 
 ## Requirements
 
@@ -26,3 +25,22 @@ This project aims to predict house prices using a linear regression model. It is
 1. Download the dataset from [here](link_to_dataset).
 2. Install the required libraries:
    ```
+   pip install pandas numpy seaborn matplotlib scikit-learn
+   ```
+3. Run the Jupyter notebook `notebooks/test.ipynb`.
+
+## Using the Model
+
+The project includes the following steps:
+
+1. Loading and cleaning the data
+2. Exploratory data analysis
+3. Outlier treatment
+4. Feature engineering and transformation
+5. Training the linear regression model
+6. Making predictions using the model
+
+## Model Evaluation
+
+The model was evaluated using the coefficient of determination (R²). The current score is: [Insert R² value here].
+
