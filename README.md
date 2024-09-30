@@ -22,7 +22,7 @@ This project aims to predict house prices using a linear regression model. It is
 
 ## Project Setup
 
-1. Download the dataset from [here](link_to_dataset).
+1. Download the dataset from [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
 2. Install the required libraries:
    ```
    pip install pandas numpy seaborn matplotlib scikit-learn
