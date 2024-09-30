@@ -42,5 +42,5 @@ The project includes the following steps:
 
 ## Model Evaluation
 
-The model was evaluated using the coefficient of determination (R²). The current score is: [Insert R² value here].
+The model was evaluated using the coefficient of determination (R²). The current score is: [0.51].
 
